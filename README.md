@@ -1,1 +1,1 @@
-# qr-code-challenge
+# QR code component
